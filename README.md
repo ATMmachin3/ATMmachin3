@@ -2,5 +2,5 @@
 - 🌱 I’m currently learning Java & some other languages
 
 Find Me:
-Mastodon: (@atmmachine@mastodon.nz)[https://mastodon.nz/@atmmachine]
-Matrix: (atmmachine:mtrx.nz)[https://matrix.to/#/@atmmachine]
+Mastodon: [@atmmachine@mastodon.nz](https://mastodon.nz/@atmmachine)<br>
+Matrix: [atmmachine:mtrx.nz](https://matrix.to/#/@atmmachine)
