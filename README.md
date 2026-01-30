@@ -1,6 +1,8 @@
-- 👋 Hi there, I’m @ATMmachin3
-- 🌱 I’m currently learning Java & some other languages
+static enthusiast and supporter of sustainable technology.
 
-Find Me:
-Mastodon: [@atmmachine@mastodon.nz](https://mastodon.nz/@atmmachine)<br>
-Matrix: [atmmachine:mtrx.nz](https://matrix.to/#/@atmmachine)
+interested in old texts and how we bring those into the internet.
+
+keep in touch
+- the internet: [atmmachine.nz](https://atmmachine.nz/)
+- codeberg: [atmmachine](https://codeberg.org/ATMmachine) (preferred git forge)
+- mastodon: [@atmmachine@mastodon.nz](https://mastodon.nz/@atmmachine)
